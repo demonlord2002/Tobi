@@ -14,7 +14,7 @@
     "uploader"
   ],
   "website": "https://t.me/UploadLinkToFileBot",
-  "repository": "https://github.com/LISA-KOREA/UPLOADER-BOT-V4",
+  "repository": "https://github.com/demonlord2002/Tobi",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -79,7 +79,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "eco"
+      "size": "Basic"
     }
   }
 }
