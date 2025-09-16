@@ -42,7 +42,7 @@
     },
     "UPDATES_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel ID",
-      "value": "-1003074903357"
+      "value": "-1002962515935"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
@@ -50,7 +50,7 @@
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": "UrlUploaderrRobot"
+      "value": "rinurluploaderbot"
     },
     "TRUE_OR_FALSE": {
       "description": "Set False off else True for  Shortlink",
