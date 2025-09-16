@@ -65,8 +65,7 @@ If you have any questions or would like to sponsor this project in another way, 
   ㅤ ㅤ   ㅤ <a href="https://github.com/demonlord2002/Tobi"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
 #
-  ㅤ<a href="https://dashboard.heroku.com/new?template=https://github.com/LISA-KOREA/UPLOADER-BOT-V4"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
-
+  ㅤ[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/demonlord2002/Tobi)
 </b>
 </details>
 
