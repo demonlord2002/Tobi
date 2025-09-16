@@ -22,35 +22,35 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "8287318562:AAHonYdUZSX8D_SXyaVxnMH39twBmyZKetk"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "23559126"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "58347a441c011b1b9ee3367ea936dcc4"
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url from mongodb.com",
-      "value": ""
+      "value": "mongodb+srv://drdoom2003p:drdoom2003p@cluster0.fnhjrtn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": ""
+      "value": "-1002914069794"
     },
     "UPDATES_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel ID",
-      "value": ""
+      "value": "-1003074903357"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "1834908260"
+      "value": "7813285237"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "UrlUploaderrRobot"
     },
     "TRUE_OR_FALSE": {
       "description": "Set False off else True for  Shortlink",
@@ -58,15 +58,15 @@
     },
     "SHORT_DOMAIN": {
       "description": "Add your shortlink domain like shortlink.com",
-      "value": ""
+      "value": "https://shortxlinks.com"
     },
     "SHORT_API": {
       "description": "Add your shortner api",
-      "value": ""
+      "value": "a3e52018fcafc8c8c7c04c8bd42cae49aecbabf9"
     },
     "VERIFICATION": {
       "description": "Add your verification video link",
-      "value": ""
+      "value": "https://t.me/sampleclipes/3"
     }
   },
   "addons": [
