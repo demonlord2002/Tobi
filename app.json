@@ -22,7 +22,7 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "8287318562:AAHonYdUZSX8D_SXyaVxnMH39twBmyZKetk"
+      "value": "8275918271:AAG9tIjh-5mWRvrz2lKMhMQH8NHdBz4_IgE"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
